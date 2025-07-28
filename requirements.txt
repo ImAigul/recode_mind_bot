@@ -1,0 +1,6 @@
+aiogram==2.25.1
+fastapi
+uvicorn
+gspread
+oauth2client
+python-dotenv
